@@ -1,1 +1,1 @@
-GKCube - The Quiz App.
+GKCube - The Study App.
